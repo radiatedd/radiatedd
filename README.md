@@ -1,4 +1,4 @@
-// iostream wont show im not stupid i promise
+
 #include <iostream>
 int main() 
 {
